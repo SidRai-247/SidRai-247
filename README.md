@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## I am Siddharth Rai 👋
+## CSE@IIT BHILAI
 <!--
 **SidRai-247/SidRai-247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
