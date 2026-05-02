@@ -1,5 +1,10 @@
-# Hello! I am Siddharth Rai
+<img align="right" src="https://miro.medium.com/v2/resize:fit:640/0*Z4HRalcoNb8m_zej.gif" width="300" />
+
+# Hello! I'm Siddharth Rai 👋
+
 Backend Developer @ IIT Bhilai. Systems-first thinker, ICPC regionalist, and competitive programmer. I like building efficient systems and solving challenging problems.
+
+☕ Building efficient systems with calm, focused execution
 
 
 ## 🌐 Socials:
